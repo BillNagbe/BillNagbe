@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... becoming a web developer 
 - 🌱 I’m currently learning ... React Jan 30th 2025
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... linkedin.com/BillNagbe
+- 📫 How to reach me ... linkedin.com/bill-nagbe
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im an avid cat lover
 
